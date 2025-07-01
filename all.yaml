@@ -1,0 +1,48 @@
+proxies:
+    - cipher: aes-256-gcm
+      name: "\U0001F1EF\U0001F1F5JP_1 | ⬇️ 5.7MB/s"
+      password: 796EA43C-1A63-8C50-3745-FD3946149E4F
+      port: "21227"
+      server: 910281.chasel.sbs
+      type: ss
+      udp: true
+    - name: "\U0001F1F8\U0001F1ECSG_1 | ⬇️ 18.0MB/s"
+      network: tcp
+      port: "17748"
+      server: jsxzcm.concubine.top
+      type: vless
+      udp: true
+      uuid: 04551420-f569-5809-90ba-ff3c03dd48cc
+      xudp: true
+    - down: ""
+      fingerprint: ""
+      name: "\U0001F1FA\U0001F1F8US_1 | ⬇️ 6.4MB/s"
+      obfs: ""
+      obfs-password: ""
+      password: b8bd42a9-551f-419d-b70d-4aefdd2cb074
+      port: "443"
+      server: 208.87.242.79
+      skip-cert-verify: true
+      sni: www.bing.com
+      type: hysteria2
+      up: ""
+    - down: ""
+      fingerprint: ""
+      name: "\U0001F1F0\U0001F1F7KR_1 | ⬇️ 4.1MB/s"
+      obfs: ""
+      obfs-password: ""
+      password: ce26fc79-0a57-46ed-a67a-149fcf523cb1
+      port: "55215"
+      server: shy23.zqjc.cloud
+      skip-cert-verify: true
+      sni: shy23.zqjc.cloud
+      type: hysteria2
+      up: ""
+    - name: "\U0001F1F9\U0001F1FCTW_1 | ⬇️ 23.9MB/s"
+      network: tcp
+      port: "49403"
+      server: jscm.concubine.top
+      type: vless
+      udp: true
+      uuid: 04551420-f569-5809-90ba-ff3c03dd48cc
+      xudp: true
